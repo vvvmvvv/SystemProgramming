@@ -1,0 +1,139 @@
+2019-06-10 08:41:10 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 08:41:10 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 08:41:10 DEBUG main.c:339: Accepting
+2019-06-10 08:41:10 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 08:41:28 DEBUG main.c:350: Accepted
+2019-06-10 08:41:28 INFO  main.c:91: Requested Host: 'localhost:8888', Path: '', File:'', Mime: 'text/html' Result file: './tmpindex.html'
+2019-06-10 08:41:28 WARN  main.c:121: Not found: ./tmpindex.html
+2019-06-10 08:41:28 DEBUG main.c:368: Adding to queue 0
+2019-06-10 08:41:28 DEBUG main.c:370: Added to queue 1
+2019-06-10 08:41:28 DEBUG main.c:339: Accepting
+2019-06-10 08:41:28 DEBUG worker_thread.c:124: Got task 0
+2019-06-10 08:41:28 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 08:41:29 DEBUG main.c:350: Accepted
+2019-06-10 08:41:29 INFO  main.c:91: Requested Host: 'localhost:8888', Path: '', File:'favicon.ico', Mime: 'application/octet-stream' Result file: './tmpfavicon.ico'
+2019-06-10 08:41:29 WARN  main.c:121: Not found: ./tmpfavicon.ico
+2019-06-10 08:41:29 DEBUG main.c:368: Adding to queue 0
+2019-06-10 08:41:29 DEBUG main.c:370: Added to queue 1
+2019-06-10 08:41:29 DEBUG main.c:339: Accepting
+2019-06-10 08:41:29 DEBUG worker_thread.c:124: Got task 0
+2019-06-10 08:41:29 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 09:23:25 DEBUG main.c:350: Accepted
+2019-06-10 09:23:25 INFO  main.c:91: Requested Host: 'localhost:8888', Path: '', File:'', Mime: 'text/html' Result file: './tmpindex.html'
+2019-06-10 09:23:25 WARN  main.c:121: Not found: ./tmpindex.html
+2019-06-10 09:23:25 DEBUG main.c:368: Adding to queue 0
+2019-06-10 09:23:25 DEBUG main.c:370: Added to queue 1
+2019-06-10 09:23:25 DEBUG main.c:339: Accepting
+2019-06-10 09:23:25 DEBUG worker_thread.c:124: Got task 0
+2019-06-10 09:23:25 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 09:23:51 DEBUG main.c:350: Accepted
+2019-06-10 09:23:51 INFO  main.c:91: Requested Host: 'localhost:8888', Path: '', File:'tmpindex', Mime: 'application/octet-stream' Result file: './tmptmpindex'
+2019-06-10 09:23:51 WARN  main.c:121: Not found: ./tmptmpindex
+2019-06-10 09:23:51 DEBUG main.c:368: Adding to queue 0
+2019-06-10 09:23:51 DEBUG main.c:370: Added to queue 1
+2019-06-10 09:23:51 DEBUG main.c:339: Accepting
+2019-06-10 09:23:51 DEBUG worker_thread.c:124: Got task 0
+2019-06-10 09:23:51 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 09:25:31 DEBUG main.c:350: Accepted
+2019-06-10 09:25:31 INFO  main.c:91: Requested Host: 'localhost:8888', Path: 'tmp/', File:'index', Mime: 'application/octet-stream' Result file: './tmptmp/index'
+2019-06-10 09:25:31 WARN  main.c:121: Not found: ./tmptmp/index
+2019-06-10 09:25:31 DEBUG main.c:368: Adding to queue 0
+2019-06-10 09:25:31 DEBUG main.c:370: Added to queue 1
+2019-06-10 09:25:31 DEBUG main.c:339: Accepting
+2019-06-10 09:25:31 DEBUG worker_thread.c:124: Got task 0
+2019-06-10 09:25:31 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 09:25:37 DEBUG main.c:350: Accepted
+2019-06-10 09:25:37 INFO  main.c:91: Requested Host: 'localhost:8888', Path: 'tmp/', File:'index.html', Mime: 'text/html' Result file: './tmptmp/index.html'
+2019-06-10 09:25:37 WARN  main.c:121: Not found: ./tmptmp/index.html
+2019-06-10 09:25:37 DEBUG main.c:368: Adding to queue 0
+2019-06-10 09:25:37 DEBUG main.c:370: Added to queue 1
+2019-06-10 09:25:37 DEBUG main.c:339: Accepting
+2019-06-10 09:25:37 DEBUG worker_thread.c:124: Got task 0
+2019-06-10 09:25:37 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 09:25:43 DEBUG main.c:350: Accepted
+2019-06-10 09:25:43 INFO  main.c:91: Requested Host: 'localhost:8888', Path: 'tmp/', File:'', Mime: 'text/html' Result file: './tmptmp/index.html'
+2019-06-10 09:25:43 WARN  main.c:121: Not found: ./tmptmp/index.html
+2019-06-10 09:25:43 DEBUG main.c:368: Adding to queue 0
+2019-06-10 09:25:43 DEBUG main.c:370: Added to queue 1
+2019-06-10 09:25:43 DEBUG worker_thread.c:124: Got task 0
+2019-06-10 09:25:43 DEBUG main.c:339: Accepting
+2019-06-10 09:25:43 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 09:25:47 DEBUG main.c:350: Accepted
+2019-06-10 09:25:47 INFO  main.c:91: Requested Host: 'localhost:8888', Path: '', File:'', Mime: 'text/html' Result file: './tmpindex.html'
+2019-06-10 09:25:47 WARN  main.c:121: Not found: ./tmpindex.html
+2019-06-10 09:25:47 DEBUG main.c:368: Adding to queue 0
+2019-06-10 09:25:47 DEBUG main.c:370: Added to queue 1
+2019-06-10 09:25:47 DEBUG worker_thread.c:124: Got task 0
+2019-06-10 09:25:47 DEBUG main.c:339: Accepting
+2019-06-10 09:25:47 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 09:31:44 DEBUG main.c:350: Accepted
+2019-06-10 09:31:44 INFO  main.c:91: Requested Host: 'localhost:8888', Path: '', File:'tmptmp.index', Mime: 'application/octet-stream' Result file: './tmptmptmp.index'
+2019-06-10 09:31:44 WARN  main.c:121: Not found: ./tmptmptmp.index
+2019-06-10 09:31:44 DEBUG main.c:368: Adding to queue 0
+2019-06-10 09:31:44 DEBUG main.c:370: Added to queue 1
+2019-06-10 09:31:44 DEBUG main.c:339: Accepting
+2019-06-10 09:31:44 DEBUG worker_thread.c:124: Got task 0
+2019-06-10 09:31:44 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 09:31:50 DEBUG main.c:350: Accepted
+2019-06-10 09:31:50 INFO  main.c:91: Requested Host: 'localhost:8888', Path: 'tmptmp/', File:'index', Mime: 'application/octet-stream' Result file: './tmptmptmp/index'
+2019-06-10 09:31:50 WARN  main.c:121: Not found: ./tmptmptmp/index
+2019-06-10 09:31:50 DEBUG main.c:368: Adding to queue 0
+2019-06-10 09:31:50 DEBUG main.c:370: Added to queue 1
+2019-06-10 09:31:50 DEBUG main.c:339: Accepting
+2019-06-10 09:31:50 DEBUG worker_thread.c:124: Got task 0
+2019-06-10 09:31:50 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 09:31:56 DEBUG main.c:350: Accepted
+2019-06-10 09:31:56 INFO  main.c:91: Requested Host: 'localhost:8888', Path: '', File:'', Mime: 'text/html' Result file: './tmpindex.html'
+2019-06-10 09:31:56 WARN  main.c:121: Not found: ./tmpindex.html
+2019-06-10 09:31:56 DEBUG main.c:368: Adding to queue 0
+2019-06-10 09:31:56 DEBUG main.c:370: Added to queue 1
+2019-06-10 09:31:56 DEBUG main.c:339: Accepting
+2019-06-10 09:31:56 DEBUG worker_thread.c:124: Got task 0
+2019-06-10 09:31:56 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 09:33:16 DEBUG main.c:350: Accepted
+2019-06-10 09:33:16 INFO  main.c:91: Requested Host: 'localhost:8888', Path: '', File:'', Mime: 'text/html' Result file: './tmpindex.html'
+2019-06-10 09:33:16 WARN  main.c:121: Not found: ./tmpindex.html
+2019-06-10 09:33:16 DEBUG main.c:368: Adding to queue 0
+2019-06-10 09:33:16 DEBUG main.c:370: Added to queue 1
+2019-06-10 09:33:16 DEBUG main.c:339: Accepting
+2019-06-10 09:33:16 DEBUG worker_thread.c:124: Got task 0
+2019-06-10 09:33:16 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 09:33:26 DEBUG main.c:350: Accepted
+2019-06-10 09:33:26 INFO  main.c:91: Requested Host: 'localhost:8888', Path: '', File:'index.html', Mime: 'text/html' Result file: './tmpindex.html'
+2019-06-10 09:33:26 WARN  main.c:121: Not found: ./tmpindex.html
+2019-06-10 09:33:26 DEBUG main.c:368: Adding to queue 0
+2019-06-10 09:33:26 DEBUG main.c:370: Added to queue 1
+2019-06-10 09:33:26 DEBUG main.c:339: Accepting
+2019-06-10 09:33:26 DEBUG worker_thread.c:124: Got task 0
+2019-06-10 09:33:26 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 09:33:34 DEBUG main.c:350: Accepted
+2019-06-10 09:33:34 INFO  main.c:91: Requested Host: 'localhost:8888', Path: 'tmp/', File:'index.html', Mime: 'text/html' Result file: './tmptmp/index.html'
+2019-06-10 09:33:34 WARN  main.c:121: Not found: ./tmptmp/index.html
+2019-06-10 09:33:34 DEBUG main.c:368: Adding to queue 0
+2019-06-10 09:33:34 DEBUG main.c:370: Added to queue 1
+2019-06-10 09:33:34 DEBUG main.c:339: Accepting
+2019-06-10 09:33:34 DEBUG worker_thread.c:124: Got task 0
+2019-06-10 09:33:34 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 09:34:09 DEBUG main.c:350: Accepted
+2019-06-10 09:34:09 INFO  main.c:91: Requested Host: 'localhost:8888', Path: '', File:'', Mime: 'text/html' Result file: './tmpindex.html'
+2019-06-10 09:34:09 DEBUG main.c:368: Adding to queue 0
+2019-06-10 09:34:09 DEBUG main.c:370: Added to queue 1
+2019-06-10 09:34:09 DEBUG main.c:339: Accepting
+2019-06-10 09:34:09 DEBUG worker_thread.c:124: Got task 0
+2019-06-10 09:34:09 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 09:34:09 DEBUG main.c:350: Accepted
+2019-06-10 09:34:09 INFO  main.c:91: Requested Host: 'localhost:8888', Path: '', File:'style.css', Mime: 'text/css' Result file: './tmpstyle.css'
+2019-06-10 09:34:09 WARN  main.c:121: Not found: ./tmpstyle.css
+2019-06-10 09:34:09 DEBUG main.c:368: Adding to queue 0
+2019-06-10 09:34:09 DEBUG main.c:370: Added to queue 1
+2019-06-10 09:34:09 DEBUG main.c:339: Accepting
+2019-06-10 09:34:09 DEBUG main.c:350: Accepted
+2019-06-10 09:34:09 INFO  main.c:91: Requested Host: 'localhost:8888', Path: '', File:'script.js', Mime: 'application/javascript' Result file: './tmpscript.js'
+2019-06-10 09:34:09 WARN  main.c:121: Not found: ./tmpscript.js
+2019-06-10 09:34:09 DEBUG main.c:368: Adding to queue 0
+2019-06-10 09:34:09 DEBUG main.c:370: Added to queue 1
+2019-06-10 09:34:09 DEBUG main.c:339: Accepting
+2019-06-10 09:34:09 DEBUG worker_thread.c:124: Got task 0
+2019-06-10 09:34:09 DEBUG worker_thread.c:120: Waiting for tasks 0
+2019-06-10 09:34:09 DEBUG worker_thread.c:124: Got task 0
+2019-06-10 09:34:09 DEBUG worker_thread.c:120: Waiting for tasks 0
